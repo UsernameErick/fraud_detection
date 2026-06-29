@@ -81,7 +81,7 @@ Special attention was given to Recall and Precision because fraud detection data
 Data analysis and machine learning portfolio project
 Focus areas:
 
--Feature engineering
--Fraud detection
--Data analysis
+-Feature engineering  
+-Fraud detection  
+-Data analysis  
 -Machine learning
