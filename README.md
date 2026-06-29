@@ -77,7 +77,7 @@ Special attention was given to Recall and Precision because fraud detection data
 * SMOTE or other imbalance handling techniques
 * Model deployment
 
-# Author Erick
+## Author Erick
 Data analysis and machine learning portfolio project
 Focus areas:
 
